@@ -5,7 +5,6 @@
   "scripts": {
     "start": "webpack serve --open",
     "test": "cross-env NODE_ENV=testing jest --watchAll --verbose --forceExit"
-    
   },
   "devDependencies": {
     "@babel/core": "7.18.10",
@@ -44,7 +43,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "6.3.0",
-    "react-scripts": "^5.0.1",
     "striptags": "3.2.0",
     "style-loader": "3.3.1",
     "styled-components": "5.3.5",
